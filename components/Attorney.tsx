@@ -35,7 +35,7 @@ export default function Attorney() {
           </div>
           <div className="space-y-5 text-lg leading-relaxed text-white/80">
             <p>
-             BarromaLaw is the law office of Atty. Joseph A.T. Barroma, an attorney and seasoned HR and data privacy professional with a background in HR, BPO, and business leadership.
+             BarromaLaw is the law office of Atty. Joseph A.T. Barroma, an attorney and former HR and BPO leader with experience in data privacy, organizational leadership, and business operations.
             </p>
             <p>
               We provide onsite and online legal consultations designed to give you clarity when you need it most. 
