@@ -35,13 +35,11 @@ export default function Attorney() {
           </div>
           <div className="space-y-5 text-lg leading-relaxed text-white/80">
             <p>
-              {firm.name} is the law office of {firm.attorney}, an{" "}
-              {firm.profession}.
+             BarromaLaw is the law office of Atty. Joseph A.T. Barroma, an attorney and seasoned HR and data privacy professional with a background in HR, BPO, and business leadership.
             </p>
             <p>
-              The office is open for onsite and online legal consultations.
-              You explain your situation and leave with a clear picture of your
-              options and next steps.
+              We provide onsite and online legal consultations designed to give you clarity when you need it most. 
+              Start by telling us about your situation. We’ll help you understand the legal considerations, explore your available options, and identify the appropriate next steps.
             </p>
             <a
               href="#book"
